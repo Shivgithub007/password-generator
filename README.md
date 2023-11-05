@@ -1,8 +1,8 @@
-# React + Vite
+# Random Password Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Steps to run in your local machine
+- First fork this project.
+- Now go into a folder and open command prompt and type command `https://github.com/<your username>/password-generator.git`
+- Now open the project into any IDE.
+- Type `npm install`.
+- And then `npm run dev` now your project will start running.
